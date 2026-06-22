@@ -39,17 +39,16 @@ In the spirit of the game, where a team of experts discusses a question before t
 ## 📂 Repository Structure
 .
 ├── notebooks/
-│ ├── 01_baseline_individual_models.ipynb
-│ ├── 02_majority_voting_ensemble.ipynb
-│ ├── 03_captain_based_selection.ipynb
-│ ├── 04_debate_ensemble_roundtable.ipynb
-│ ├── 05_debate_with_captain_verdict.ipynb
-│ └── 06_adaptive_hybrid_system.ipynb
+│   ├── 01_baseline_individual_models.ipynb
+│   ├── 02_majority_voting_ensemble.ipynb
+│   ├── 03_captain_based_selection.ipynb
+│   ├── 04_debate_ensemble_roundtable.ipynb
+│   ├── 05_debate_with_captain_verdict.ipynb
+│   └── 06_adaptive_hybrid_system.ipynb
 ├── data/
-│ ├── questions with answers 
-│ 
+│   └── questions_with_answers.csv
 ├── results/
-│ ├── metrics/ # Accuracy, reasoning scores
-│ └── figures/ # Comparative performance charts
-├── requirements.txt # Python dependencies
+│   ├── metrics/
+│   └── figures/
+├── requirements.txt
 └── README.md
