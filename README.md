@@ -8,7 +8,7 @@ All experiments are run locally via **Ollama** with a fixed temperature of `0.2`
 
 ## ⚙️ Experimental Setup
 
-- **Domain**: Questions sourced from the Russian trivia game "Что? Где? Когда?" (ChGK).
+- **Domain**: Questions sourced from the [Parrot Benchmark]([url](https://www.redblock.ai/resources/blog/introducing-parrot-a-new-llm-benchmark-using-television-trivia-datasets).
 - **Framework**: Local inference via [Ollama](https://ollama.com/).
 - **Model Pool**: A consistent set of 6 open-source language models:
   - `qwen2:7b`
