@@ -47,8 +47,5 @@ In the spirit of the game, where a team of experts discusses a question before t
 │   └── 06_adaptive_hybrid_system.ipynb
 ├── data/
 │   └── questions_with_answers.csv
-├── results/
-│   ├── metrics/
-│   └── figures/
-├── requirements.txt
-└── README.md
+├── README.md          # English 
+└── README.ru.md       # Русская версия 
